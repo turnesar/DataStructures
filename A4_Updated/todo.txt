@@ -1,0 +1,8 @@
+0, take a nap
+
+1, study heap-based priority queue
+
+101, review trees for Midterm
+
+3, do assignment 5
+

@@ -1,0 +1,6 @@
+Sarah Turner
+15 Nov 2018
+CS 261
+
+I thought the easiest way to make the change for duplicates would be to just add a separate variable that essentially records the order the tasks are put in.  The user has no interaction with this variable.  An alternative method could be perhaps a priority queue with queues inside, but the aforementioned method was much more simple.
+
